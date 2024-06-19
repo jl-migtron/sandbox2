@@ -1,0 +1,7 @@
+
+# Ignored folders ...
+target/
+logs/
+
+# Ignored files ...
+nbactions.xml
